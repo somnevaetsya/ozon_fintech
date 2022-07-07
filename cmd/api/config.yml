@@ -1,0 +1,8 @@
+postgresHost: 'postgres'
+postgresPort: '5432'
+
+logFile: 'gin.log'
+
+postgresUser: 'ozon'
+postgresPassword: 'ozon'
+postgresDbName: 'ozon'
